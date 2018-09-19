@@ -1,0 +1,292 @@
+<Collection xmlns="http://schemas.microsoft.com/deepzoom/2009" MaxLevel="14" TileSize="256" Format="jpg">
+  <Items>
+    <I Id="the-moth-1960" N="0" Source="the-moth-1960.dzi">
+      <Size Width="952" Height="1200"/>
+    </I>
+    <I Id="large-landscape-with-a-tree-1957" N="1" Source="large-landscape-with-a-tree-1957.dzi">
+      <Size Width="1498" Height="1200"/>
+    </I>
+    <I Id="painter-and-his-model-1981" N="2" Source="painter-and-his-model-1981.dzi">
+      <Size Width="1221" Height="1200"/>
+    </I>
+    <I Id="window-cour-de-rohan-1951" N="3" Source="window-cour-de-rohan-1951.dzi">
+      <Size Width="613" Height="1200"/>
+    </I>
+    <I Id="the-turkish-room-1963" N="4" Source="the-turkish-room-1963.dzi">
+      <Size Width="1370" Height="1200"/>
+    </I>
+    <I Id="cathy-s-toilette-1933" N="5" Source="cathy-s-toilette-1933.dzi">
+      <Size Width="1436" Height="1579"/>
+    </I>
+    <I Id="children-1937" N="6" Source="children-1937.dzi">
+      <Size Width="1254" Height="1200"/>
+    </I>
+    <I Id="the-cardgame-1973" N="7" Source="the-cardgame-1973.dzi">
+      <Size Width="1418" Height="1200"/>
+    </I>
+    <I Id="drawing-room-1942" N="8" Source="drawing-room-1942.dzi">
+      <Size Width="838" Height="645"/>
+    </I>
+    <I Id="the-street-1933" N="9" Source="the-street-1933.dzi">
+      <Size Width="1469" Height="1200"/>
+    </I>
+    <I Id="joan-miro-and-his-daughter-dolores-1937" N="10" Source="joan-miro-and-his-daughter-dolores-1937.dzi">
+      <Size Width="814" Height="1200"/>
+    </I>
+    <I Id="andre-derain-1936" N="11" Source="andre-derain-1936.dzi">
+      <Size Width="784" Height="1200"/>
+    </I>
+    <I Id="nude-with-cat-1949" N="12" Source="nude-with-cat-1949.dzi">
+      <Size Width="1558" Height="1200"/>
+    </I>
+    <I Id="girl-on-a-bed" N="13" Source="girl-on-a-bed.dzi">
+      <Size Width="374" Height="312"/>
+    </I>
+    <I Id="girl-at-the-window-1955" N="14" Source="girl-at-the-window-1955.dzi">
+      <Size Width="784" Height="1200"/>
+    </I>
+    <I Id="guitar-lesson-1934" N="15" Source="guitar-lesson-1934.dzi">
+      <Size Width="520" Height="600"/>
+    </I>
+    <I Id="the-white-skirt-1937" N="16" Source="the-white-skirt-1937.dzi">
+      <Size Width="1638" Height="1200"/>
+    </I>
+    <I Id="the-toilet-1957" N="17" Source="the-toilet-1957.dzi">
+      <Size Width="940" Height="1200"/>
+    </I>
+    <I Id="getting-up" N="18" Source="getting-up.dzi">
+      <Size Width="1152" Height="1200"/>
+    </I>
+    <I Id="the-cat-in-the-mirror" N="19" Source="the-cat-in-the-mirror.dzi">
+      <Size Width="1137" Height="1200"/>
+    </I>
+    <I Id="the-cat-in-the-mirror-1" N="20" Source="the-cat-in-the-mirror-1.dzi">
+      <Size Width="1009" Height="1200"/>
+    </I>
+    <I Id="katia-reading-1974" N="21" Source="katia-reading-1974.dzi">
+      <Size Width="1378" Height="1200"/>
+    </I>
+    <I Id="the-cat-in-the-mirror-2" N="22" Source="the-cat-in-the-mirror-2.dzi">
+      <Size Width="760" Height="719"/>
+    </I>
+    <I Id="the-room" N="23" Source="the-room.dzi">
+      <Size Width="1474" Height="1200"/>
+    </I>
+    <I Id="the-passage-of-commerce-saint-andre-1954" N="24" Source="the-passage-of-commerce-saint-andre-1954.dzi">
+      <Size Width="1103" Height="1200"/>
+    </I>
+    <I Id="the-king-of-cats-1935" N="25" Source="the-king-of-cats-1935.dzi">
+      <Size Width="735" Height="1200"/>
+    </I>
+    <I Id="landscape-with-oxen-1942" N="26" Source="landscape-with-oxen-1942.dzi">
+      <Size Width="1678" Height="1200"/>
+    </I>
+    <I Id="the-cherry-tree" N="27" Source="the-cherry-tree.dzi">
+      <Size Width="932" Height="1200"/>
+    </I>
+    <I Id="gotteron-1943" N="28" Source="gotteron-1943.dzi">
+      <Size Width="1044" Height="1200"/>
+    </I>
+    <I Id="the-mediterranean-cat-1949" N="29" Source="the-mediterranean-cat-1949.dzi">
+      <Size Width="1791" Height="1200"/>
+    </I>
+    <I Id="patience-1955" N="30" Source="patience-1955.dzi">
+      <Size Width="798" Height="800"/>
+    </I>
+    <I Id="young-girl-with-white-skirt-1955" N="31" Source="young-girl-with-white-skirt-1955.dzi">
+      <Size Width="900" Height="1200"/>
+    </I>
+    <I Id="girl-and-cat-1937" N="32" Source="girl-and-cat-1937.dzi">
+      <Size Width="1054" Height="1200"/>
+    </I>
+    <I Id="three-sisters-1954" N="33" Source="three-sisters-1954.dzi">
+      <Size Width="1782" Height="892"/>
+    </I>
+    <I Id="three-sisters" N="34" Source="three-sisters.dzi">
+      <Size Width="1651" Height="1200"/>
+    </I>
+    <I Id="the-dream" N="35" Source="the-dream.dzi">
+      <Size Width="1488" Height="1200"/>
+    </I>
+    <I Id="the-golden-fruit-1956" N="36" Source="the-golden-fruit-1956.dzi">
+      <Size Width="1182" Height="1200"/>
+    </I>
+    <I Id="three-sisters-1964" N="37" Source="three-sisters-1964.dzi">
+      <Size Width="1796" Height="1200"/>
+    </I>
+    <I Id="nude-at-rest-1977" N="38" Source="nude-at-rest-1977.dzi">
+      <Size Width="882" Height="1200"/>
+    </I>
+    <I Id="getting-up-1955" N="39" Source="getting-up-1955.dzi">
+      <Size Width="642" Height="800"/>
+    </I>
+    <I Id="still-life-with-a-figure-1942" N="40" Source="still-life-with-a-figure-1942.dzi">
+      <Size Width="1511" Height="1192"/>
+    </I>
+    <I Id="sleeping-girl-1943" N="41" Source="sleeping-girl-1943.dzi">
+      <Size Width="512" Height="403"/>
+    </I>
+    <I Id="the-first-communicants-1926" N="42" Source="the-first-communicants-1926.dzi">
+      <Size Width="502" Height="512"/>
+    </I>
+    <I Id="the-cardgame-1950" N="43" Source="the-cardgame-1950.dzi">
+      <Size Width="1652" Height="1200"/>
+    </I>
+    <I Id="girl-on-a-white-horse-1941" N="44" Source="girl-on-a-white-horse-1941.dzi">
+      <Size Width="582" Height="523"/>
+    </I>
+    <I Id="therese-dreaming-1938" N="45" Source="therese-dreaming-1938.dzi">
+      <Size Width="945" Height="1076"/>
+    </I>
+    <I Id="big-landscape-with-cow" N="46" Source="big-landscape-with-cow.dzi">
+      <Size Width="991" Height="1200"/>
+    </I>
+    <I Id="the-barracks-1933" N="47" Source="the-barracks-1933.dzi">
+      <Size Width="1494" Height="1200"/>
+    </I>
+    <I Id="lady-abdy-1935" N="48" Source="lady-abdy-1935.dzi">
+      <Size Width="868" Height="1200"/>
+    </I>
+    <I Id="patience-1943" N="49" Source="patience-1943.dzi">
+      <Size Width="1222" Height="1200"/>
+    </I>
+    <I Id="the-mountain-1937" N="50" Source="the-mountain-1937.dzi">
+      <Size Width="1763" Height="1200"/>
+    </I>
+    <I Id="the-child-with-pigeons" N="51" Source="the-child-with-pigeons.dzi">
+      <Size Width="956" Height="1200"/>
+    </I>
+    <I Id="drawing-room" N="52" Source="drawing-room.dzi">
+      <Size Width="1607" Height="1200"/>
+    </I>
+    <I Id="the-yonne-valley-1957" N="53" Source="the-yonne-valley-1957.dzi">
+      <Size Width="800" Height="498"/>
+    </I>
+    <I Id="pastoral-1960" N="54" Source="pastoral-1960.dzi">
+      <Size Width="800" Height="392"/>
+    </I>
+    <I Id="larchant-1939" N="55" Source="larchant-1939.dzi">
+      <Size Width="1508" Height="1200"/>
+    </I>
+    <I Id="landscape-in-chassy-1" N="56" Source="landscape-in-chassy-1.dzi">
+      <Size Width="638" Height="800"/>
+    </I>
+    <I Id="still-life-1937" N="57" Source="still-life-1937.dzi">
+      <Size Width="1482" Height="1200"/>
+    </I>
+    <I Id="the-fear-of-ghosts-1933" N="58" Source="the-fear-of-ghosts-1933.dzi">
+      <Size Width="844" Height="1200"/>
+    </I>
+    <I Id="young-girl-at-the-window-1957" N="59" Source="young-girl-at-the-window-1957.dzi">
+      <Size Width="1213" Height="1200"/>
+    </I>
+    <I Id="study-of-a-girl-with-a-window" N="60" Source="study-of-a-girl-with-a-window.dzi">
+      <Size Width="800" Height="624"/>
+    </I>
+    <I Id="study-to-guitar-lesson-1934" N="61" Source="study-to-guitar-lesson-1934.dzi">
+      <Size Width="800" Height="504"/>
+    </I>
+    <I Id="the-room-1948" N="62" Source="the-room-1948.dzi">
+      <Size Width="336" Height="400"/>
+    </I>
+    <I Id="nude-in-profile" N="63" Source="nude-in-profile.dzi">
+      <Size Width="1089" Height="1200"/>
+    </I>
+    <I Id="nude-with-her-arms-raised-1951" N="64" Source="nude-with-her-arms-raised-1951.dzi">
+      <Size Width="313" Height="600"/>
+    </I>
+    <I Id="nude-with-a-silk-scarf" N="65" Source="nude-with-a-silk-scarf.dzi">
+      <Size Width="650" Height="895"/>
+    </I>
+    <I Id="the-victim" N="66" Source="the-victim.dzi">
+      <Size Width="1772" Height="1019"/>
+    </I>
+    <I Id="study-for-the-painting-nude-resting-1972" N="67" Source="study-for-the-painting-nude-resting-1972.dzi">
+      <Size Width="822" Height="1200"/>
+    </I>
+    <I Id="japanese-girl-with-by-the-red-table-1967" N="68" Source="japanese-girl-with-by-the-red-table-1967.dzi">
+      <Size Width="1606" Height="1200"/>
+    </I>
+    <I Id="sleeping-nude-1980" N="69" Source="sleeping-nude-1980.dzi">
+      <Size Width="894" Height="1200"/>
+    </I>
+    <I Id="great-composition-with-corbel" N="70" Source="great-composition-with-corbel.dzi">
+      <Size Width="876" Height="1200"/>
+    </I>
+    <I Id="nude-with-a-guitar-1986" N="71" Source="nude-with-a-guitar-1986.dzi">
+      <Size Width="969" Height="1200"/>
+    </I>
+    <I Id="figure-in-front-of-a-mantel-1955" N="72" Source="figure-in-front-of-a-mantel-1955.dzi">
+      <Size Width="1124" Height="1200"/>
+    </I>
+    <I Id="japanese-girl-with-a-black-mirror-1967" N="73" Source="japanese-girl-with-a-black-mirror-1967.dzi">
+      <Size Width="1579" Height="1200"/>
+    </I>
+    <I Id="bust-of-the-young-girl" N="74" Source="bust-of-the-young-girl.dzi">
+      <Size Width="546" Height="800"/>
+    </I>
+    <I Id="portrait-of-baroness-alain-de-rothschild-1958" N="75" Source="portrait-of-baroness-alain-de-rothschild-1958.dzi">
+      <Size Width="618" Height="800"/>
+    </I>
+    <I Id="princess-maria-volkonsky-at-the-age-of-twelve-1945" N="76" Source="princess-maria-volkonsky-at-the-age-of-twelve-1945.dzi">
+      <Size Width="931" Height="1200"/>
+    </I>
+    <I Id="therese-1938" N="77" Source="therese-1938.dzi">
+      <Size Width="966" Height="1200"/>
+    </I>
+    <I Id="colette-sitting" N="78" Source="colette-sitting.dzi">
+      <Size Width="634" Height="800"/>
+    </I>
+    <I Id="great-landscape-with-trees-the-triangular-field-1955" N="79" Source="great-landscape-with-trees-the-triangular-field-1955.dzi">
+      <Size Width="1723" Height="1200"/>
+    </I>
+    <I Id="landscape-in-chassy" N="80" Source="landscape-in-chassy.dzi">
+      <Size Width="800" Height="665"/>
+    </I>
+    <I Id="the-golden-years" N="81" Source="the-golden-years.dzi">
+      <Size Width="1642" Height="1200"/>
+    </I>
+    <I Id="study-for-the-siesta-1958" N="82" Source="study-for-the-siesta-1958.dzi">
+      <Size Width="706" Height="800"/>
+    </I>
+    <I Id="the-bouquet-of-roses-on-the-window-1958" N="83" Source="the-bouquet-of-roses-on-the-window-1958.dzi">
+      <Size Width="1146" Height="1200"/>
+    </I>
+    <I Id="landscape-in-morvan-1955" N="84" Source="landscape-in-morvan-1955.dzi">
+      <Size Width="800" Height="609"/>
+    </I>
+    <I Id="still-life-with-lamp-1958" N="85" Source="still-life-with-lamp-1958.dzi">
+      <Size Width="1564" Height="1200"/>
+    </I>
+    <I Id="still-life-quince-and-pear-1956" N="86" Source="still-life-quince-and-pear-1956.dzi">
+      <Size Width="800" Height="530"/>
+    </I>
+    <I Id="still-life-with-lamp-1958-1" N="87" Source="still-life-with-lamp-1958-1.dzi">
+      <Size Width="629" Height="800"/>
+    </I>
+    <I Id="girl-kneeling-her-arms-on-a-chair" N="88" Source="girl-kneeling-her-arms-on-a-chair.dzi">
+      <Size Width="1769" Height="1200"/>
+    </I>
+    <I Id="study-for-the-dream-i-1935" N="89" Source="study-for-the-dream-i-1935.dzi">
+      <Size Width="800" Height="662"/>
+    </I>
+    <I Id="young-girl-asleep-1994" N="90" Source="young-girl-asleep-1994.dzi">
+      <Size Width="895" Height="1200"/>
+    </I>
+    <I Id="the-week-with-four-thursdays-1949" N="91" Source="the-week-with-four-thursdays-1949.dzi">
+      <Size Width="1011" Height="1200"/>
+    </I>
+    <I Id="self-portrait-1940" N="92" Source="self-portrait-1940.dzi">
+      <Size Width="627" Height="873"/>
+    </I>
+    <I Id="montecalvello-1979" N="93" Source="montecalvello-1979.dzi">
+      <Size Width="1469" Height="1200"/>
+    </I>
+    <I Id="chassy-by-the-fireplace-at-workshop" N="94" Source="chassy-by-the-fireplace-at-workshop.dzi">
+      <Size Width="800" Height="631"/>
+    </I>
+    <I Id="cathy-1935" N="95" Source="cathy-1935.dzi">
+      <Size Width="515" Height="635"/>
+    </I>
+  </Items>
+</Collection>
