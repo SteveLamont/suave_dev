@@ -480,8 +480,6 @@ PivotViewer.Views.BucketView = PivotViewer.Views.TileBasedView.subClass({
 
 	if ( !this.bucketized ) {
 
-	    console.debug( "tiles:", this.tiles.length );
-
 	    for ( var i = 0; i < this.tiles.length; i++ ) {
 
 		var tile = this.tiles[i];
@@ -537,7 +535,6 @@ PivotViewer.Views.BucketView = PivotViewer.Views.TileBasedView.subClass({
 	    
 	} else {
 
-	    console.debug( "Bucketized" );
 	    this.bucketized = false;
             // Clear all tile locations greater than 1
             for (var l = 0; l < this.tiles.length; l++) {
@@ -800,6 +797,7 @@ PivotViewer.Views.BucketView = PivotViewer.Views.TileBasedView.subClass({
 	var th = tile.origheight;
 	var row;
 	var col;
+	var mindist_sqd = Number.MAX_SAFE_INTEGER;
 	for ( var i = 0; i < tlocs.length; i++ ) {
 
 	    var tloc = tlocs[i];
@@ -811,6 +809,22 @@ PivotViewer.Views.BucketView = PivotViewer.Views.TileBasedView.subClass({
 		    tloc.bucket_column;
 		row = tloc.bucket_row;
 		break;
+
+	    } else { // If not a direct hit, then try for a closest match.
+
+		var xdist = ( tloc.x + ( tw / 2 ) ) - x;
+		var ydist = ( tloc.y + ( tw / 2 ) ) - y;
+
+		var dist_sqd = ( xdist * xdist ) + ( ydist * ydist );
+
+		if ( dist_sqd < mindist_sqd ) {
+
+		    mindist_sqd = dist_sqd;
+		    col = ( tloc.bucket * this.rowscols.Columns ) +
+			tloc.bucket_column;
+		    row = tloc.bucket_row;
+
+		}
 
 	    }
 

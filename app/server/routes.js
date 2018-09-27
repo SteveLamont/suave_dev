@@ -141,24 +141,30 @@ module.exports = function(app) {
 	    if (e){
 		res.status(400).send(e);
 	    }	else{
-		EM.sendWelcomeMessage({'name': req.body['name'], 'email': req.body['email']}, function(e){
-		    if (e) {
-			res.status(400).send(e);
-		    } else {
-			res.status(200).send('ok');
-		    }
-		});
+		EM.sendWelcomeMessage({'name': req.body['name'],
+				       'user': req.body['user'],
+				       'hostname': req.headers.host,
+				       'email': req.body['email']},
+						  function(e){
+						      if (e) {
+							  res.status(400).send(e);
+						      } else {
+							  res.status(200).send('ok');
+						      }
+						  });
 	    }
 	});
     });
-    
+
     // password reset //
     
     app.post('/lost-password', function(req, res){
 	// look up the user's account via their email //
 	AM.getAccountByEmail(req.body['email'], function(o){
 	    if (o){
-		EM.dispatchResetPasswordLink(o, function(e, m){
+		EM.dispatchResetPasswordLink(o,
+ 					     req.headers.host,
+					     function(e, m){
 		    // this callback takes a moment to return //
 		    // TODO add an ajax loader to give user feedback //
 		    if (!e){
